@@ -4,21 +4,33 @@ body {
 	color: #ffffff;
 	line-height: 1.5;
 	text-align: center;
+	margin: 0 auto;
 }
 
 
 .title {
 	color: yellow;
 	font-size: 30px;
+
 	margin-bottom: 20px;
 }
 
 #rules {
 	font-size: 25px;
+	margin-top: 20px;
 }
 #underscores {
 	margin-top: 30px;
 	margin-bottom: 30px;
+	color: yellow;
+}
+
+#lives {
+	color: #f70d23;
+}
+
+#lettersguessed {
+	margin-bottom: 20px;
 }
 .maincontent {
 	width: 960px;
