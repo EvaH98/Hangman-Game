@@ -1,6 +1,6 @@
 # Hangman-Game
 
-<h2>Hangman, the classic pen and paper guessing game we all know and love is coming to you on  your computer screens!</h2>
+<h2>Hangman, the classic pen and paper guessing game we all know and love is coming to you on your computer screens!</h2>
 
 <p>Normally, you'd have a second person come up with a word and have you guess it, well with the power of vanilla Javascript, you just need yourself and your brain. Making the experience eco friendly (no more paper!) and more convenient(if you don't have another person to play with)</p>
 
@@ -16,6 +16,14 @@
 <br>
 4. Win: Get congratulated!
 <br>
-5. Loose: Well, better luck next time.
+5. Lose: Well, better luck next time.
 <br>
+</p>
 
+<h3>My Goal:</h3>
+<p>My goal, as well as the goal of my instructor, is to use the activity to get familiar with javascript by making it fun and enjoyable. 
+    <br>
+    In addition, there may be others like me in my situation that don't have a clear foundation as to where to start or are having trouble with some part, so I hope my project, though it may not be perfect, will help with any confusion others may have because I know I sure did have lots of confusion.'
+</p>
+
+<p>Like I've said, this isn't perfect, so if you think you can provide feedback or suggestions, I'm more than happy to hear them!</p>
