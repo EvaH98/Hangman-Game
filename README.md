@@ -1,5 +1,7 @@
 # Hangman-Game
 
+Link to GitHub Page: https://evah98.github.io/Hangman-Game/
+
 <h2>Hangman, the classic pen and paper guessing game we all know and love is coming to you on your computer screens!</h2>
 
 <p>Normally, you'd have a second person come up with a word and have you guess it, well with the power of vanilla Javascript, you just need yourself and your brain. Making the experience eco friendly (no more paper!) and more convenient(if you don't have another person to play with)</p>
